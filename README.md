@@ -13,6 +13,7 @@ scematics img:
 
 
 
+![image](https://user-images.githubusercontent.com/114358863/228628429-09c70a89-7db2-49fd-b2ef-2cce207696d4.png)
 
 
 pcb img:
