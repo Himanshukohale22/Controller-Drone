@@ -11,15 +11,16 @@ for handling sensetive and crusial data during entire flight.
 
 scematics img:
 
-![image](https://user-images.githubusercontent.com/114358863/228451611-30bedb54-68a2-4d59-b0f8-181ae5408b96.png)
+
 
 
 
 pcb img:
+![image](https://user-images.githubusercontent.com/114358863/228628094-14ec1e12-a6ac-4a39-9471-7c13ca92b75c.png)
 
-![image](https://user-images.githubusercontent.com/114358863/228451453-e9737e1e-c406-4ab7-a998-4e1683637e33.png)
+
 
 
 3D:
+![image](https://user-images.githubusercontent.com/114358863/228628309-ca51cfef-0d01-4d40-bd45-98916c7a1b14.png)
 
-![image](https://user-images.githubusercontent.com/114358863/228451545-6e3afcf1-8d10-46a2-a8f8-0bce235b35f5.png)
