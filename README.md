@@ -7,14 +7,13 @@ stm32F411xc on board controller flight controller.
 Specification:
 On board chip of controller is STM32F4XC high performance microcontroller.
 Board contains gyroscope and accelorometer for flight controlling and PID motion.
-Two pyro channels are present on board for parachute deployment in regular mode and other in emergency  mode.
+
 
 
 Hardware design:
 STM32F411xc main controller.
 mpu6050 gyroscope and accelorometer sensor.
 bmp280 pressure and altitude sensor.
-Inbuilt SD card module.
 nrf24 RF module for on board communicaton between base station and flight ROCEKT.
 
 
