@@ -1,12 +1,21 @@
 # SKY
 CONTROLLER FOR DRONE
 
+stm32F411xc on board controller flight controller.
 
-This is 4*4(cm) controller board for RC drone 
-which has nrf24 for communication.
-bmp280(barometer sensor) for altitude , pressure and MPU 6050 as intertial mesurment unit for drone.
-the main computer on board is STM32F411 Version microcontrolle which has 100MHz operating clock frequency.
-for handling sensetive and crusial data during entire flight.
+
+Specification:
+On board chip of controller is STM32F4XC high performance microcontroller.
+Board contains gyroscope and accelorometer for flight controlling and PID motion.
+Two pyro channels are present on board for parachute deployment in regular mode and other in emergency  mode.
+
+
+Hardware design:
+STM32F411xc main controller.
+mpu6050 gyroscope and accelorometer sensor.
+bmp280 pressure and altitude sensor.
+Inbuilt SD card module.
+nrf24 RF module for on board communicaton between base station and flight ROCEKT.
 
 
 scematics img:
